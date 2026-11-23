@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" fill="none">
+  <rect width="640" height="360" rx="14" fill="#FFE3CE"/>
+  <circle cx="530" cy="83" r="92" fill="#FFC59F"/>
+  <circle cx="530" cy="83" r="62" stroke="#F4855F" stroke-width="2" stroke-dasharray="4 7"/>
+  <path d="m531 26 9 39 35-22-22 35 40 8-40 9 22 35-35-22-9 40-9-40-35 22 22-35-40-9 40-8-22-35 35 22 9-39Z" fill="#FA784E"/>
+  <g transform="rotate(-7 292 192)">
+    <rect x="123" y="77" width="365" height="230" rx="8" fill="#FFF9EE" stroke="#E1B89C" stroke-width="2"/>
+    <path d="M123 229c48-55 104-74 160-47 47 23 84 54 205-8v133H123V229Z" fill="#F07850"/>
+    <path d="M123 259c77-43 122-30 170-9 44 20 102 23 195-28v85H123v-48Z" fill="#278D80"/>
+    <circle cx="410" cy="142" r="46" fill="#F8C756"/>
+    <path d="M410 105v74m-37-37h74m-63-26 52 52m0-52-52 52" stroke="#FFF3D6" stroke-width="4"/>
+    <text x="157" y="128" fill="#607C70" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="3">A LITTLE SOMETHING</text>
+    <text x="157" y="170" fill="#254F45" font-family="Arial,sans-serif" font-size="34" font-weight="800" letter-spacing="-2">GOOD MAIL</text>
+    <text x="157" y="207" fill="#254F45" font-family="Arial,sans-serif" font-size="34" font-weight="800" letter-spacing="-2">FOR GOOD DAYS</text>
+    <rect x="157" y="273" width="145" height="18" rx="9" fill="#FFF8E9"/>
+    <text x="172" y="286" fill="#597668" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1">A NOTE JUST FOR YOU</text>
+  </g>
+  <path d="m108 70 6 15 15 6-15 6-6 15-6-15-15-6 15-6 6-15Z" fill="#0BA998"/>
+</svg>

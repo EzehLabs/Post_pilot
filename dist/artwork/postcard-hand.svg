@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="400" viewBox="0 0 520 400" fill="none">
+  <defs>
+    <filter id="shadow" x="62" y="20" width="405" height="372" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dy="10"/>
+      <feComponentTransfer><feFuncA type="linear" slope=".22"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <g transform="rotate(-12 224 173)">
+      <rect x="107" y="87" width="238" height="151" rx="4" fill="#F075A4"/>
+      <circle cx="295" cy="126" r="27" fill="#FFD9AE"/>
+      <path d="M295 105c4 9 9 14 19 16-10 2-15 7-19 17-3-10-8-15-18-17 10-2 15-7 18-16Z" fill="#FF7D57"/>
+      <text x="126" y="119" fill="#71334E" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1.5">A NOTE FOR YOU</text>
+      <text x="126" y="157" fill="#612946" font-family="Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="-1">YOU’RE THE</text>
+      <text x="126" y="183" fill="#612946" font-family="Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="-1">GOOD STUFF.</text>
+      <path d="M127 215h87" stroke="#FFE9D5" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g transform="rotate(8 325 206)">
+      <rect x="218" y="139" width="224" height="143" rx="4" fill="#A9E3DA"/>
+      <path d="M218 139h224v143H218z" fill="#70CFC3" opacity=".24"/>
+      <circle cx="389" cy="184" r="29" fill="#FFF1C7"/>
+      <path d="M389 162c4 9 9 14 19 16-10 2-15 7-19 17-3-10-8-15-18-17 10-2 15-7 18-16Z" fill="#F18A61"/>
+      <text x="237" y="174" fill="#236257" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1.5">LITTLE THINGS, BIG LOVE</text>
+      <text x="237" y="211" fill="#1E6056" font-family="Arial,sans-serif" font-size="21" font-weight="800" letter-spacing="-1">HELLO,</text>
+      <text x="237" y="236" fill="#1E6056" font-family="Arial,sans-serif" font-size="21" font-weight="800" letter-spacing="-1">GOOD DAY.</text>
+      <path d="M238 259h72" stroke="#EAF9EB" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <path d="M122 400c4-53 20-97 46-116 13-10 29-8 36 4 5 8 5 18 0 29l24-53c6-14 19-19 30-13 10 5 13 17 8 30l-14 38 38-42c10-11 24-12 33-4 8 8 7 21-2 32l-29 36 31-20c13-8 27-5 33 5 6 10 2 22-10 31l-39 29c-27 21-43 41-53 64h-91Z" fill="#E8A27D"/>
+    <path d="M192 287c-8 20-15 36-21 48m69-43-15 37m71-40-23 34m54-5-25 23" stroke="#C77E64" stroke-width="4" stroke-linecap="round"/>
+    <path d="M178 315c12-10 24-13 37-8m59-5c11-8 21-10 32-6m27 17c10-6 20-6 29-2" stroke="#F5C2A0" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <path d="m425 83 5 13 13 5-13 5-5 13-5-13-13-5 13-5 5-13Z" fill="#FFE184"/>
+  <circle cx="101" cy="122" r="6" fill="#F9C75F"/>
+</svg>

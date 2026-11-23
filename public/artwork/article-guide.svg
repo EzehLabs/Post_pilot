@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" fill="none">
+  <rect width="640" height="360" rx="14" fill="#C9ECEB"/>
+  <path d="M0 278c117-61 226-70 331-23 92 42 204 34 309-20v125H0V278Z" fill="#A5DFD9"/>
+  <g transform="rotate(8 339 191)">
+    <rect x="156" y="63" width="343" height="245" rx="8" fill="#FFF9EC" stroke="#8BC8C3" stroke-width="2"/>
+    <path d="M172 82h309v113H172z" fill="#C2E8DB"/>
+    <path d="M172 162c59-75 117-74 174-31 45 35 80 32 135-23v87H172v-33Z" fill="#3C9C8D"/>
+    <circle cx="423" cy="121" r="32" fill="#FFD477"/>
+    <path d="M200 119c24-21 52-24 75-6" stroke="#F28662" stroke-width="7" stroke-linecap="round"/>
+    <path d="m216 137 37 26m-27-48 54 39" stroke="#F3F3DF" stroke-width="3" stroke-linecap="round"/>
+    <text x="187" y="224" fill="#718B80" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="2">MAKE THE MAILBOX MATTER</text>
+    <text x="187" y="258" fill="#254D46" font-family="Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="-1.3">POSTCARD</text>
+    <text x="187" y="286" fill="#254D46" font-family="Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="-1.3">MARKETING, MADE EASY</text>
+    <path d="M427 226h44m-44 10h34m-34 10h40" stroke="#D3DDD2" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <circle cx="106" cy="95" r="25" fill="#FFF4D8"/>
+  <path d="M106 78v34m-17-17h34m-29-12 24 24m0-24-24 24" stroke="#F19B65" stroke-width="2"/>
+  <path d="m533 255 5 12 13 5-13 5-5 13-5-13-13-5 13-5 5-12Z" fill="#F27455"/>
+</svg>

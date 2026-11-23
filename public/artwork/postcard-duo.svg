@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360" fill="none">
+  <defs>
+    <filter id="shadow" x="26" y="12" width="475" height="335" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+      <feOffset dy="11"/>
+      <feComponentTransfer><feFuncA type="linear" slope=".2"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <g transform="rotate(-10 230 175)">
+      <rect x="84" y="78" width="300" height="194" rx="5" fill="#F16A9D"/>
+      <path d="M84 220c49-43 97-47 144-23 45 22 97 25 156-14v89H84v-52Z" fill="#D94E86"/>
+      <circle cx="325" cy="123" r="48" fill="#FFD4B3"/>
+      <path d="M325 89c13 19 20 30 20 42a20 20 0 1 1-40 0c0-12 7-23 20-42Z" fill="#FF8966"/>
+      <text x="108" y="115" fill="#63294C" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="2">A LITTLE THANK-YOU</text>
+      <text x="108" y="154" fill="#5D2545" font-family="Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="-1.5">HEY, YOU’RE</text>
+      <text x="108" y="181" fill="#5D2545" font-family="Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="-1.5">PRETTY GREAT.</text>
+      <text x="108" y="244" fill="#FFF4E8" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1.5">A LITTLE LOVE FROM HURON</text>
+      <path d="M343 236h18m-18 6h12m-12 6h16" stroke="#FFF4E8" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g transform="rotate(9 308 195)">
+      <rect x="176" y="120" width="279" height="184" rx="5" fill="#42C5C6"/>
+      <path d="M176 120h279v184H176z" fill="#1EAAA9" opacity=".16"/>
+      <circle cx="388" cy="171" r="43" fill="#E7F5E9"/>
+      <path d="M388 143c4 13 11 20 25 22-14 3-21 10-25 23-4-13-11-20-25-23 14-2 21-9 25-22Z" fill="#F6A95C"/>
+      <path d="M353 175c8-6 17-9 27-9m14 16c10 2 17 7 22 15" stroke="#218C89" stroke-width="3" stroke-linecap="round"/>
+      <text x="198" y="157" fill="#174C50" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="2">GOOD THINGS AHEAD</text>
+      <text x="198" y="193" fill="#144F51" font-family="Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="-1.5">GOOD SKIN.</text>
+      <text x="198" y="219" fill="#144F51" font-family="Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="-1.5">GOOD MOOD.</text>
+      <rect x="198" y="253" width="121" height="22" rx="11" fill="#E4F6E8"/>
+      <text x="212" y="267" fill="#30726E" font-family="Arial,sans-serif" font-size="7" font-weight="700" letter-spacing="1">LET’S MAKE THIS A THING</text>
+    </g>
+  </g>
+  <path d="m83 79 5 13 13 5-13 5-5 13-5-13-13-5 13-5 5-13Z" fill="#11A897"/>
+  <circle cx="438" cy="67" r="6" fill="#F7B74E"/>
+</svg>

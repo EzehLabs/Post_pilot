@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" fill="none">
+  <rect width="640" height="360" rx="14" fill="#F4D6E4"/>
+  <circle cx="114" cy="75" r="68" fill="#F9E8ED"/>
+  <circle cx="528" cy="290" r="100" fill="#EFB7D0"/>
+  <g transform="rotate(-6 319 190)">
+    <rect x="168" y="62" width="318" height="238" rx="8" fill="#FFF8F0" stroke="#E4A5C2" stroke-width="2"/>
+    <path d="M168 232c77-36 138-40 185-12 44 26 79 23 133-4v84H168v-68Z" fill="#F7C8D5"/>
+    <circle cx="416" cy="117" r="40" fill="#FFE7AF"/>
+    <path d="M416 91c5 12 11 19 25 21-14 3-20 9-25 22-4-13-10-19-24-22 14-2 20-9 24-21Z" fill="#EF7298"/>
+    <text x="199" y="115" fill="#A47487" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="2">JUST A LITTLE NOTE</text>
+    <text x="199" y="162" fill="#543747" font-family="Arial,sans-serif" font-size="33" font-weight="800" letter-spacing="-2">THANK</text>
+    <text x="199" y="198" fill="#543747" font-family="Arial,sans-serif" font-size="33" font-weight="800" letter-spacing="-2">YOU, FRIEND.</text>
+    <path d="M201 225c15 12 27 12 42 0 15-12 27-12 42 0" stroke="#D27798" stroke-width="3" stroke-linecap="round"/>
+    <text x="199" y="275" fill="#9A687C" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing="1.5">A LITTLE LOVE FROM OUR TEAM</text>
+  </g>
+  <path d="m531 57 5 13 13 5-13 5-5 13-5-13-13-5 13-5 5-13Z" fill="#159F91"/>
+  <circle cx="124" cy="285" r="8" fill="#F58AA8"/>
+  <path d="m111 285 13-13 13 13-13 13-13-13Z" stroke="#E18CAC" stroke-width="2"/>
+</svg>
